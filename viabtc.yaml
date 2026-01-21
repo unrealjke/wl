@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,viabtc.com
+  - DOMAIN-SUFFIX,viabtc.io
+  - DOMAIN-SUFFIX,viabtc.cc
+  - DOMAIN-SUFFIX,viabtc.top
+  - DOMAIN-SUFFIX,btc.viabtc.io
+  - DOMAIN-SUFFIX,btc.viabtc.cc
+  - DOMAIN-SUFFIX,btc.viabtc.top
+  - DOMAIN-SUFFIX,btc.powhashing.com
+  - DOMAIN-SUFFIX,btc-ssl.viabtc.io
+  - DOMAIN-SUFFIX,btc-ssl.powhashing.com
+  - DOMAIN-SUFFIX,ltc.viabtc.io
+  - DOMAIN-SUFFIX,ltc.viabtc.cc
+  - DOMAIN-SUFFIX,ltc.viabtc.top
+  - DOMAIN-SUFFIX,ltc.powhashing.com
+  - DOMAIN-SUFFIX,ltc-ssl.viabtc.io
+  - DOMAIN-SUFFIX,ltc-ssl.powhashing.com
