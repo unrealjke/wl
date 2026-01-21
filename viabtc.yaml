@@ -1,4 +1,8 @@
 payload:
+  - DOMAIN-SUFFIX,viabtc.com
+  - DOMAIN-SUFFIX,viabtc.io
+  - DOMAIN-SUFFIX,viabtc.cc
+  - DOMAIN-SUFFIX,viabtc.top
   - DOMAIN-SUFFIX,btc.viabtc.io
   - DOMAIN-SUFFIX,btc.viabtc.cc
   - DOMAIN-SUFFIX,btc.viabtc.top
