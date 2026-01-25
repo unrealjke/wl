@@ -1,1 +1,0 @@
-vless://96ae25e6-b8f8-49cd-bf17-7ce2f04e64c2@158.160.195.177:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LMps23LhUJ9FnzMOKIjmiiHat8-iXBkfa0RSaEUN6mY&security=reality&sid=95b4ab2a&sni=tunnel.vk-apps.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%238
