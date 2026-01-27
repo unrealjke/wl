@@ -1,0 +1,1 @@
+vless://72058346-93e4-484e-ae8c-29982beb4945@158.160.114.65:443?encryption=none&flow=xtls-rprx-vision&pbk=2L3fYvgizCXUKSzN0ZPq7hXszdvqwMYxPauE24v-AVk&security=reality&sni=eh1.vk.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%231
