@@ -1,1 +1,1 @@
-vless://435c03fd-f139-4a9a-9516-74fa81d983d1@84.201.178.109:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AWXV0vrwk2dEVibYa-7zWBhEPPNIZmQO6w-N4XPjeDU&security=reality&sid=0f4dacf08712e45f&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2317
+vless://435c03fd-f139-4a9a-9516-74fa81d983d1@84.201.178.109:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AWXV0vrwk2dEVibYa-7zWBhEPPNIZmQO6w-N4XPjeDU&security=reality&sid=0f4dacf08712e45f&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2313
