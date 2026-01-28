@@ -1,0 +1,1 @@
+vless://7401dac8-383a-4ba2-ba70-673c8a1a1af7@51.250.86.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IlYoYTVM5u4rminskPjjbFCGz-iaAE2X2mI8bLSOL0E&security=reality&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%234
